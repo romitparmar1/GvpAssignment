@@ -4,3 +4,12 @@ python -m venv my_venv
 python3 app.py
 
 pip install flask
+
+
+FAST API 
+
+pip install uvicorn
+
+pip install fastapi
+
+code run = uvicorn app:app   
